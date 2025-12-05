@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sebasti%C3%A1n;Frontend+Developer+Junior;Souls-like+Player+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3590F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sebasti%C3%A1n;Frontend+Developer+Junior;Souls-like+Player+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
 
 ### 🚀 About Me
 
