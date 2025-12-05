@@ -83,3 +83,12 @@
 </p>
 
 </div>
+
+
+### SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SAGS2002/SAGS2002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
