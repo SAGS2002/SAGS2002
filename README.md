@@ -51,12 +51,17 @@
 
 <div align="center">
 
-![Estadísticas de Sebastián](https://github-readme-stats.vercel.app/api?username=SAGS2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGS2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGS2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<br><br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SAGS2002&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</a>
 
 </div>
-
 ---
 
 ### 📬 Connect with me
