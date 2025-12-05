@@ -49,10 +49,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SAGS2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="SAGS2002 Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGS2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="SAGS2002 Top Langs" />
-</p>
+<div align="center">
+
+![Estadísticas de Sebastián](https://github-readme-stats.vercel.app/api?username=SAGS2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGS2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
 
