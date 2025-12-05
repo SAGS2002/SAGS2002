@@ -2,6 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 Web Developer Junior
+
+🔭 I’m currently working on... AdminMe.
+
+🌱 I’m currently learning... TypeScript and NextJs.
+
+⚡ Fun fact: I like Souls-type video games, coding, and learning more.
 --------------------
 
 <p align="left">
